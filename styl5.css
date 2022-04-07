@@ -1,0 +1,266 @@
+#kontener{
+	position: absolute;
+	left: 50%;
+	width: 822px;margin-left: -411px;
+	
+	}
+
+
+#pasek {
+	
+margin-bottom: 0px;
+	background-image: url(tla/tlaex2.bmp);	
+	height: 60px;
+	
+		
+	}
+
+#logo  {
+	border: 2px solid rgb(230, 230, 230);
+	
+	background-image:  url(tla/niebtelebit1.jpg);
+	height: 59px;
+	margin-bottom: 0px;
+	}
+
+#logo1  {
+	border: 2px solid rgb(230, 230, 230);
+	
+	background-image:  url(tla/bocznytelebit1.jpg);
+	height: 59px;
+	margin-bottom: 0px;
+	}
+	
+#pudlo {
+	
+	
+	background: white;
+	height:500px;
+	
+	}
+#reklama{
+	border: 1px solid rgb(230, 230, 230);
+	
+	background: rgb(230, 230, 230);
+
+	height: 25px;
+	text-align: center;
+	
+	padding: 2px;
+	}	
+
+#B { 
+ background: #C0C0C0;
+float: left;
+width: 208px;height: 380px;
+
+margin-right: 4px  ;
+margin-top: 2px;
+margin-bottom: 0px;
+overflow :auto;
+
+}
+
+#B2{clear: left;
+background: navy;
+float: left;
+width: 208px;
+height: 44px;
+text-align: center;
+color: red;
+margin-right: 4px  ;
+
+overflow :auto;
+visibility:visible
+
+}
+
+
+#C { position: relative;
+
+float: right;
+width: 600px;  height: 421px;
+ background-image: url(tla/klawiaturabialaduza.jpg);
+background-repeat: no-repeat;
+margin-top: 2px;
+border-right: navy 3px solid ;
+border-bottom: navy 3px solid;
+}
+
+#D{margin-left: 0px;
+margin-right: 0px;
+  	
+ 
+margin-top: 8px;
+border: navy 3px solid ;
+
+	
+padding: 2px;
+ }
+
+hr {position: absolute;
+	top: 8px;
+	left: 0px;   
+   border-color: navy;   
+   background-color: red;   
+   height: 5px; 
+width: 550px;	
+margin: 0px;
+  }
+
+   
+
+
+body {font-size: 13px;
+	font-family: Arial;
+	text-align: justify;}
+h1 {font-size: 200%;
+	font-family: Arial;
+	font-weight: bolder;
+	color: navy;}
+h2{font-size: 150%;
+	font-family: Arial;
+	font-weight: bolder;}
+h3 {font-size: 120%;
+	
+	font-family: Arial black;
+	}
+ .naglowek_sprzetu
+{margin-left: 15px;}
+h3#naglowek_sprzetu1{margin-left: 15px;}
+
+#stopka{clear: both;
+
+padding: 3px;
+background: navy;}
+
+#b{margin: 28px;}
+
+
+   
+
+
+ul#naw {
+	list-style-type: none;
+	}
+ul#naw li{float: right;
+	display: inline;}
+ul#naw li a{text-decoration: none;
+	padding: 5px 10px;
+	margin: 2px 2px;
+	border: 1px solid navy;
+	background-color: white;
+	text-align: center;
+	color: black;
+}
+
+
+
+ul.tresc{list-style-type: none;}
+
+.naglowek {
+	margin: 10px;
+	
+	
+	
+	}
+
+
+
+
+.napisnaglowka1{padding: 3px;
+	font: bold  130% Arial black sans-serif;
+	color: navy;
+	}
+
+.napisnaglowka{padding: 2px;
+	font: bold 110% sans-serif;}
+
+ul#menu li {text-align: left;
+	}
+ul#menu li a
+{text-decoration: none;}
+.lewa{border-top: 1px solid;
+	border-bottom: 1px;
+	padding: 1px;
+	margin: 2px 2px;}
+
+
+
+
+
+
+#tabela{position: absolute;
+top: 10px;
+left: 4px;
+
+ height: 410px;width: 350px;
+
+overflow :auto;}
+
+
+
+
+table {position: absolute;
+top: 0px;
+right: 0px;
+
+width: 172px;
+margin-top: 0px;
+margin-left: 5px;
+margin-right: 45px;
+border: #C0C0C0 solid;}
+
+
+
+
+
+p{text-align: justify;
+font-family: Arial ;
+margin-left: 3px;
+margin-right: 4px;
+margin-top: 0px;
+padding: 0px;
+}
+
+p#pc{
+padding: 10px;
+margin-right: 4px;
+
+}
+
+.blok{
+background: rgb(250, 250, 250);
+
+padding-bottom:15px;
+ 
+margin: 5px;
+
+border:  #C0C0C0 solid;
+
+	
+}
+img{border: 0px;}
+
+
+
+img.a
+{clear: both;
+float: left;
+margin: 20px;
+margin-right: 20px;}
+
+
+
+.opis_sprzetu
+{padding: 5px;
+border: #C0C0C0 solid;
+background: rgb(230, 230, 230);
+margin-right: 45px;
+margin-left: 45px;
+margin-bottom: 15px;
+overflow :auto;
+height: 130px;
+}
+
+
